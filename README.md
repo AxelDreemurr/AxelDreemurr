@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AxelDreemurr
-- 👀 I’m interested in developing software solutions, and taking part in creative projects!
-- 🌱 I’m currently studying IT Engineering
+- 👀 I’m interested in developing software solutions, and joining creative projects!
+- 🌱 I’m currently studying IT Engineering!
 - 📫 How to reach me: @axeldreemurr on Twitter! 
 
 <!---
