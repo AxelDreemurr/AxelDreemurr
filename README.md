@@ -47,14 +47,6 @@ const axel = {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=axeldreemurr&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -114,19 +106,6 @@ const axel = {
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=white" alt="IFTTT" />
 </p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axeldreemurr&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axeldreemurr&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axeldreemurr&show_icons=true&theme=radical&hide_border=true&locale=es&layout=compact" alt="Top Languages" />
-</div>
 
 <br/>
 
